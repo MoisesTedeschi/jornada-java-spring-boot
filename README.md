@@ -89,5 +89,5 @@ Sinta-se à vontade para contribuir, reportar erros ou sugerir melhorias.
 Feel free to contribute, report issues, or suggest improvements.
 
 
-## 🙋‍♂️ Autor
+## 🙋‍♂️ Autor | Author
 Moisés Tedeschi de Melo [MOA]
