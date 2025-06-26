@@ -78,11 +78,6 @@ Install the following extensions for better support:
 
 2. Importe o projeto em sua IDE | Import the project into your IDE
 
-3. Compile e execute | Build and run:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
 ---
 
 ## Notas Finais | Final Notes
