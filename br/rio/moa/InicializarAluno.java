@@ -1,7 +1,6 @@
 package br.rio.moa;
 
 // Média de Notas: Peça ao usuário para inserir 5 notas e calcule a média aritmética.
-
 public class InicializarAluno {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno("João");
