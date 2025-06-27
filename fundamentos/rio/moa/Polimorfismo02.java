@@ -1,3 +1,11 @@
+/*
+ * Casting em Java é o processo de converter uma referência de um tipo de objeto para outro tipo. 
+ * Isso é especialmente comum em hierarquias de classes, onde você pode ter uma classe base e uma 
+ * ou mais subclasses. O casting pode ser feito de duas maneiras:
+ * - Upcasting: Converter uma referência de uma subclasse para a classe base (seguro e não requer casting).
+ * - Downcasting: Converter uma referência de uma classe base para uma subclasse (requer casting e deve ser feito com cuidado).
+ */
+
 package fundamentos.rio.moa;
 
 class Animal {
