@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Calculadora Simples: Desenvolva uma calculadora que possa realizar operações básicas (adição, subtração, multiplicação e divisão) com dois números inteiros.
 public class CalculadoraSimples {

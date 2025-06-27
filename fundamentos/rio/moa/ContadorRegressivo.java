@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Contagem Regressiva: Escreva um programa que faça uma contagem regressiva de 10 a 0, imprimindo cada número.
 public class ContadorRegressivo {

@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Soma de Números: Desenvolva um programa que some todos os números de 1 a N, onde N é fornecido pelo usuário.
 public class SomaDeNumeros {

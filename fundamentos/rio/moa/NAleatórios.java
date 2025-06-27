@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Números Aleatórios: Gere e exiba 10 números aleatórios entre 1 e 100.
 public class NAleatórios {

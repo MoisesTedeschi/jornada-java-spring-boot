@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Média de Notas: Peça ao usuário para inserir 5 notas e calcule a média aritmética.
 public class Aluno {

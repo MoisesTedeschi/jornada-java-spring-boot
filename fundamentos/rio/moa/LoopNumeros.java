@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Números de 1 a 10: Escreva um loop que imprima os números de 1 a 10 na tela.
 public class LoopNumeros {

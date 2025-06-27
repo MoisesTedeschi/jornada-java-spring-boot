@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Par ou Ímpar: Crie um programa que peça ao usuário para inserir um número e determine se ele é par ou ímpar.
 public class EPar {

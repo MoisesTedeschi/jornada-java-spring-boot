@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Hello World: Crie um programa que exiba "Hello, World!" na tela.
 public class InicialClass {

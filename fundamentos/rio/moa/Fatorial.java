@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Fatorial: Crie um programa que calcule o fatorial de um número inteiro positivo fornecido pelo usuário.
 public class Fatorial {

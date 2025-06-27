@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Contagem de Vogais: Crie um programa que conte o número de vogais em uma frase fornecida pelo usuário.
 public class ContagemDeVogais {

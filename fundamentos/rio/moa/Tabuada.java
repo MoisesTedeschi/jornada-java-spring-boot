@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 import java.util.Scanner;
 
 // Tabuada: Crie um programa que imprima a tabuada de um número fornecido pelo usuário.

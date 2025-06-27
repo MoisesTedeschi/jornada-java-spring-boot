@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // String Reversa: Escreva um programa que inverta uma string fornecida pelo usuário.
 public class StringReversa {

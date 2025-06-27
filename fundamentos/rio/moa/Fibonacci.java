@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Fibonacci: Crie um programa que gere a sequência de Fibonacci até o enésimo termo fornecido pelo usuário.
 public class Fibonacci {

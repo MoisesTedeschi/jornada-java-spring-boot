@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Array de Números: Crie um programa que armazene 5 números em um array e imprima a soma e a média desses números.
 public class NArray {

@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Conversão de Temperatura: Crie um programa que converta uma temperatura de Celsius para Fahrenheit e vice-versa.
 public class ConversaoDeTemperatura {

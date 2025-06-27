@@ -17,7 +17,7 @@ antes de alterar o saldo. Isso ajuda a proteger a integridade dos dados.
 Resumindo, o encapsulamento ajuda a proteger os dados e a garantir que eles sejam manipulados de forma controlada.
 */
 
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 class ContaBancaria {
     // Atributos privados

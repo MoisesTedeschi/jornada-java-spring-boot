@@ -1,4 +1,4 @@
-package br.rio.moa;
+package fundamentos.rio.moa;
 
 // Jogo de Adivinhação: Crie um simples jogo em que o computador escolhe um número aleatório entre 1 e 100, e o usuário tenta adivinhar qual é. O programa deve informar se a adivinhação é muito alta, muito baixa ou correta.
 public class Advinhacao {
