@@ -15,9 +15,9 @@ Os arquivos estão organizados por módulos, cada um contendo exercícios e proj
 The files are organized into modules, each containing exercises and projects separated by lessons.
 
 ```
-br/
-  rio/
-    moa/
+fundamentos/
+          rio/
+            moa/
 ...
 ```
 
