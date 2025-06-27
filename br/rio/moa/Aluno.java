@@ -2,26 +2,28 @@ package br.rio.moa;
 
 public class Aluno {
     private String nome;
-    private int idade;
 
-    public Aluno(String nome, int idade) {
+    public Aluno(String nome) {
         this.nome = nome;
-        this.idade = idade;
     }
 
-    public void notafinal(double nota1, double nota2) {
-        double media = (nota1 + nota2) / 2;
-        System.out.println("Média final do aluno " + nome + ": " + media);
+    public void calcularMedia(double[] notas) {
+        if (notas.length != 5) {
+            System.out.println("Por favor, insira exatamente 5 notas.");
+            return;
+        }
+        
+        double soma = 0;
+        for (double nota : notas) {
+            soma += nota;
+        }
+        
+        double media = soma / notas.length;
+        System.out.println(nome + ", sua média final é: " + media);
     }
 
     public String getNome() {
         return nome;
     }
-
-    public int getIdade() {
-        return idade;
-    }
-
 }
-
 
